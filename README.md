@@ -10,7 +10,7 @@ Aula 2 - Instalando e configurando o Ambiente de Desenvolvimento
   - 2.3 Primeiro Projeto: <a href="./src/com/example/modulo02/PrimeiroCodigo.java">Código</a>
 
 Aula 3 - Programação Java: Conceitos Iniciais
-- 3.1 Programação Java - Conceitos Iniciais: <a href="./Teórico/Aula 3.1 - Programação Java - Conceitos Iniciais.md">Prático</a>
+- 3.1 Programação Java - Conceitos Iniciais: <a href="./Teórico/Aula 3.1 - Programação Java - Conceitos Iniciais.md">Teórico</a>
 - 3.2 Trabalhando com variáveis: <a href="./src/com/example/modulo03/TrabalhandoComVariaveis.java">Código</a>
 - 3.3 Trabalhando com o tipo var: <a href="./src/com/example/modulo03/VariavelTipoVar.java">Código</a>
 - 3.4 Casting de tipos primitivos: <a href="./src/com/example/modulo03/CastingTiposPrimitivos.java">Código</a>
@@ -18,3 +18,9 @@ Aula 3 - Programação Java: Conceitos Iniciais
 - 3.6 Usando a estrutura switch expression: <a href="./src/com/example/modulo03/SwitchExpression.java">Código</a>
 - 3.7 Estruturas de controle while, do-while e for: <a href="./src/com/example/modulo03/WhileDowhileFor.java">Código</a>
 - 3.8 Usando o JShell.
+
+Aula 4 - Classes e Objetos
+- 4.1 Classes e Objetos: <a href="./Teórico/Aula 4.1 - Classes e Objetos.md">Teórico</a>
+- 4.2 Criando classes e objetos: <a href="./src/com/example/modulo04/CriandoClassesEObjetos">Código</a>
+- 4.3 Trabalhando com o tipo var: <a href="./src/com/example/modulo04/Sobrecarga">Código</a>
+- 4.4 Casting de tipos primitivos: <a href="./src/com/example/modulo04/Operacao">Código</a>
