@@ -31,3 +31,10 @@ Aula 5 - Modificadores de Acesso, Construtores e Elementos Estáticos
 - 5.3 Construtores de classes: <a href="./src/com/example/modulo05/ConstrutoresDeClasses">Código</a>
 - 5.4 Elementos estáticos: <a href="./src/com/example/modulo05/ElementosEstaticos">Código</a>
 - 5.5 O tipo de dado record: <a href="./src/com/example/modulo05/DadoRecord">Código</a>
+
+Aula 6 - Herança e Polimorfismo
+- 6.1 Herança e Polimorfismo: <a href="./Teórico/Aula 6.1 - Herança e Polimorfismo.md">Teórico</a>
+- 6.2 Aplicando a herança entre classes no Java: <a href="./src/com/example/modulo06/Heranca">Código</a>
+- 6.3 Construtores e a herança: <a href="./src/com/example/modulo06/ConstrutorHeranca">Código</a>
+- 6.4 Aplicando o polimorfismo no Java: <a href="./src/com/example/modulo06/Polimorfismo">Código</a>
+- 6.5 Exemplo prático de polimorfismo: <a href="./src/com/example/modulo06/PolimorfismoBebida">Código</a>
